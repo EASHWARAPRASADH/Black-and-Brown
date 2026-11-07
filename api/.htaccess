@@ -1,0 +1,4 @@
+# Fallback protection in case the mail config is ever placed in this folder.
+<Files "mail-config.php">
+  Require all denied
+</Files>

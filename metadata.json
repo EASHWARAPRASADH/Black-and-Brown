@@ -1,0 +1,6 @@
+{
+  "name": "Black & Brown",
+  "description": "Premium Hair & Beauty Salon and Training Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
