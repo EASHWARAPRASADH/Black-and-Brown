@@ -31,14 +31,6 @@ const GALLERY_ITEMS: GalleryItem[] = [
     description: "Elegant cascading waves crafted with a round brush blowout, delivering a glossy, camera-ready finish perfect for evening events and celebrations."
   },
   {
-    id: 'g-3',
-    category: 'cuts',
-    title: "Red Light Hair & Scalp Therapy",
-    technique: "LED scalp phototherapy, follicle stimulation, nourishing serum finish",
-    image: "/img/gallery3.jpeg",
-    description: "A non-invasive red light scalp treatment using therapeutic wavelengths to stimulate follicles, strengthen roots, and promote healthier, thicker hair growth."
-  },
-  {
     id: 'g-4',
     category: 'bridal',
     title: "Bridal Floral Braid Hair Do",
@@ -53,14 +45,6 @@ const GALLERY_ITEMS: GalleryItem[] = [
     technique: "Deep cleanse, heat protectant, ceramic flat-iron press",
     image: "/img/gallery5.jpeg",
     description: "A transformative silk press treatment leaving natural hair bone-straight, silky, and frizz-free with mirror-like shine for weeks."
-  },
-  {
-    id: 'g-6',
-    category: 'color',
-    title: "Cherry Red Highlight Streaks",
-    technique: "Weave foils, bold pigment deposit, acidic gloss seal",
-    image: "/img/gallery6.jpeg",
-    description: "Vibrant cherry-red highlights woven through dark hair for a striking, high-contrast statement that turns heads at every angle."
   },
   {
     id: 'g-7',
@@ -109,14 +93,6 @@ const GALLERY_ITEMS: GalleryItem[] = [
     technique: "Hands-on model training with professional supervision",
     image: "/img/classttaining2.jpeg",
     description: "Academy students performing live haircuts on training models, receiving real-time feedback and technique corrections from senior stylists."
-  },
-  {
-    id: 'g-13',
-    category: 'academy',
-    title: "Creative Texturing Class",
-    technique: "Razor sliding, point cutting, and French styling methods",
-    image: "/img/classttaining3.jpeg",
-    description: "A creative texturing module focusing on modern shags, layers, curtain flows, and razor-slide techniques built to frame facial elements beautifully."
   },
   {
     id: 'g-14',

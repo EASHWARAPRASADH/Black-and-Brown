@@ -155,7 +155,7 @@ export default function AboutView() {
             description="Licensed founders and senior color specialists who balance active salon clientele with deep student tutoring."
           />
 
-          <Stagger className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6" stagger={0.12}>
+          <Stagger className="grid grid-cols-1 sm:grid-cols-2 max-w-4xl mx-auto gap-8" stagger={0.12}>
             {TEAM_MEMBERS.map((stylist, idx) => (
               <StaggerItem key={stylist.name} className="h-full">
                 <TiltCard

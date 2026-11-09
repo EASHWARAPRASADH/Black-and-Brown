@@ -352,12 +352,6 @@ export const TEAM_MEMBERS: TeamMember[] = [
     role: "Co-Founder & Academy Director",
     bio: "Mr. Gul Mohamed leads our training programs with innovative techniques and 7+ years experience, including 2 years as lead trainer in Naturals Training Academy (Chennai) and clinical director in 5+ professional salons around India.",
     image: "/img/gul.jpeg"
-  },
-  {
-    name: "Pradeep",
-    role: "Advisor",
-    bio: "Our lead advisor in premium student career mentoring and corporate operational governance across Puducherry zones.",
-    image: "/img/pradeep.jpeg"
   }
 ];
 
